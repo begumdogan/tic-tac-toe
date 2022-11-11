@@ -1,6 +1,6 @@
 # Tic Tac Toe
 #
-# the repository has moved to another location
+# The repository has moved to another location
 #
 # https://github.com/begumdogan/tictactoe
 #
